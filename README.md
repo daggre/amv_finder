@@ -9,7 +9,7 @@ Printed output provides:
 - Shows if the zone is interior, exterior or both
 
 ## Command:
-First parameter is the number of nearest zones to output (Maximum: 10).
+First parameter is the number of nearest zones to output (Maximum: 10)
 ```
 /amvfind <number>
 ```
@@ -43,3 +43,7 @@ amv_zone_69.ymt item=20 dist=3.46 <position x="-2592.165" y="436.7699" z="149.40
 9: amv_zone_69.ymt item=36 dist=28.12 <position x="-2590.835" y="411.9623" z="151.8239" /> exterior 
 10: amv_zone_69.ymt item=37 dist=28.28 <position x="-2597.108" y="411.7239" z="148.9026" /> exterior/interior
 ```
+
+## Installation
+- Download or Clone the amv_finder repository into your resources folder
+- Add `ensure amv_finder` to your server.cfg or wherever you load your resources
