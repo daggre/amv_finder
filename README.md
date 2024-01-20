@@ -1,5 +1,5 @@
 ## AMV Finder
-This tool supplies a simple command to print the nearest AMV zones from the player's position.
+This RedM tool supplies a simple command to print the nearest AMV zones from the player's position.
 
 Printed output provides:
 - Name of the amv zone file
@@ -9,7 +9,7 @@ Printed output provides:
 - Shows if the zone is interior, exterior or both
 
 ## Command:
-First parameter is the number of nearest zones to output. (Maximum 10)
+First parameter is the number of nearest zones to output (Maximum: 10).
 ```
 /amvfind <number>
 ```
